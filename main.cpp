@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-  
+ JOE
 int nameScore =0;  
 for (int i=0;i<line.length();i++)
 {
